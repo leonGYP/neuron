@@ -53,8 +53,8 @@ def check(v, r, k, l):
 vect = [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]]
 for i in x:
     train(vect, resolve(i))
-# print(vect)
+print(vect)
 for i in x:
-    start = datetime.datetime.now()
+    # start = datetime.datetime.now()
     check(vect, resolve(i), 0.1, 2)
-    print(datetime.datetime.now() - start)
+    # print(datetime.datetime.now() - start)
