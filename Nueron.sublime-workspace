@@ -1,0 +1,737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ran",
+				"random\tstatement"
+			],
+			[
+				"time",
+				"time_to"
+			],
+			[
+				"requ",
+				"Request\tclass"
+			],
+			[
+				"url",
+				"urllib2\tmodule"
+			],
+			[
+				"uni",
+				"unicode\tclass"
+			],
+			[
+				"e",
+				"Exception"
+			],
+			[
+				"time_",
+				"time_now\tstatement"
+			],
+			[
+				"alert",
+				"alert_msg\tstatement"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"str",
+				"strip"
+			],
+			[
+				"pre",
+				"pre_ts\tstatement"
+			],
+			[
+				"da",
+				"datetime\tclass"
+			],
+			[
+				"stor",
+				"storename"
+			],
+			[
+				"bu",
+				"buckets"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"agg",
+				"aggregations"
+			],
+			[
+				"to",
+				"Transitional"
+			],
+			[
+				"squ",
+				"squiggly_underline"
+			],
+			[
+				"sti",
+				"stippled_underline"
+			],
+			[
+				"sol",
+				"solid_underline"
+			],
+			[
+				"mail",
+				"mail_pass"
+			],
+			[
+				"min",
+				"minutes\tparam"
+			],
+			[
+				"loa",
+				"loads\tfunction"
+			],
+			[
+				"show",
+				"showconn\tfunction"
+			],
+			[
+				"re",
+				"read_some\tfunction"
+			],
+			[
+				"x",
+				"x_data\tstatement"
+			],
+			[
+				"mutl",
+				"multiply\tinstance"
+			],
+			[
+				"pl",
+				"plot"
+			],
+			[
+				"w",
+				"weight\tstatement"
+			],
+			[
+				"mult",
+				"multiply\tinstance"
+			],
+			[
+				"s",
+				"sqrt\tfunction"
+			],
+			[
+				"mat",
+				"matrix\tmodule"
+			],
+			[
+				"t",
+				"thread\tmodule"
+			],
+			[
+				"E",
+				"Exception\tclass"
+			],
+			[
+				"y_",
+				"y_test\tstatement"
+			],
+			[
+				"plt",
+				"plt\tmodule"
+			],
+			[
+				"W",
+				"Wei"
+			],
+			[
+				"x_",
+				"x_test\tstatement"
+			],
+			[
+				"p",
+				"plot"
+			],
+			[
+				"cl",
+				"cls"
+			],
+			[
+				"out",
+				"out12\tstatement"
+			],
+			[
+				"ou",
+				"outputs"
+			],
+			[
+				"y",
+				"y_data\tstatement"
+			],
+			[
+				"col",
+				"column_stack\tfunction"
+			],
+			[
+				"line",
+				"linspace\tfunction"
+			],
+			[
+				"predi",
+				"prediction_value\tstatement"
+			],
+			[
+				"no",
+				"None\tinstance"
+			],
+			[
+				"num",
+				"num_threads\tparam"
+			],
+			[
+				"gr",
+				"grid\tfunction"
+			],
+			[
+				"pa",
+				"pause"
+			],
+			[
+				"login",
+				"logintype"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Github/Nueron"
+	],
+	"file_history":
+	[
+		"/Users/leon/Desktop/test.py",
+		"/private/var/folders/ry/7yd355g9227b352_16syywp00000gn/T/e39da924-1f02-4520-a25e-590fc7c349de/usr/share/elasticsearch/yuanpeng-gao-f952537a-dd73-4181-a52b-14dd833bd315-v5.json",
+		"/private/var/folders/ry/7yd355g9227b352_16syywp00000gn/T/e39da924-1f02-4520-a25e-590fc7c349de/usr/share/elasticsearch/LICENSE.txt",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Github/icealert/alert.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Github/icealert/watcher.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/elasticHQ/example/nginx_es_5.conf",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Github/icealert/learn.py",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/SublimeGit/Default (OSX).sublime-keymap",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/SublimeGit/Default.sublime-keymap",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/Modific/Modific.sublime-settings",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/watcher/alert.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/watcher/watcher.py",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/watcher/test.py",
+		"/private/var/folders/ry/7yd355g9227b352_16syywp00000gn/T/e39da924-1f02-4520-a25e-590fc7c349de/usr/share/alert/test.py",
+		"/private/var/folders/ry/7yd355g9227b352_16syywp00000gn/T/e39da924-1f02-4520-a25e-590fc7c349de/usr/share/alert/watcher.py",
+		"/private/var/folders/ry/7yd355g9227b352_16syywp00000gn/T/e39da924-1f02-4520-a25e-590fc7c349de/usr/share/alert/alert.py",
+		"/Users/leon/.Trash/alert 09-42-37-380.py",
+		"/Users/leon/.Trash/alert 09-42-14-308.py",
+		"/Users/leon/.Trash/alert 09-41-58-970.py",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/JsFormat/Default (OSX).sublime-keymap",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/test.md",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Default (OSX).sublime-keymap",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/watcher.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/kibana.bundle.js",
+		"/Users/leon/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/alert.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/post.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/send.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/sendmail.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/email.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/config.yaml",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/example_cardinality.yaml",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/alert.yaml",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/jdbc.sql",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/tj.conf",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/test.conf",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/ELK/jdbc.conf",
+		"/Users/leon/Desktop/jdbc.conf",
+		"/Users/leon/Desktop/jdbc.sql",
+		"/Users/leon/jllog.conf",
+		"/Users/leon/Desktop/logstash.conf",
+		"/Users/leon/Desktop/update.conf",
+		"/Users/leon/Desktop/ete.conf",
+		"/Users/leon/ip2store.yaml",
+		"/Users/leon/Desktop/ip2store.yaml",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/工作/加盟店账号.txt",
+		"/Users/leon/Desktop/log/messages",
+		"/Users/leon/Desktop/log/secure",
+		"/Users/leon/history",
+		"/Users/leon/Desktop/index.txt",
+		"/Users/leon/Downloads/erp日志/jllog.conf",
+		"/Users/leon/Downloads/erp日志/蚌埠登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/常州登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/电商登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/河南登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/淮安登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/集采登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/连云港登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/路驰登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/南京登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/南通登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/四川登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/苏州登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/泰州登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/新宁波登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/新无锡登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/新芜湖登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/徐州登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/盐城登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/杨镇登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/云南登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/浙江登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/总部登陆日志.txt",
+		"/Users/leon/Downloads/erp日志/安徽登陆日志.txt",
+		"/Users/leon/Desktop/jllog.conf",
+		"/Users/leon/Downloads/winlogbeat.yml",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/server.js",
+		"/Users/leon/Desktop/account.txt",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/conn_out.txt",
+		"/Users/leon/Desktop/vpn.wsdl",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/.Trash/WEBAGENT(20140911)/distributed.php",
+		"/Users/leon/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d1674bc4cd447e7b32191d0823e286d0/Message/MessageTemp/73383ed69d01dbcfb61a29c02c7c063b/OpenData/distributed.php",
+		"/Users/leon/Desktop/WEBAGENT(20140911)/distributed.php",
+		"/Users/leon/Desktop/WEBAGENT(20140911)/normal.php",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-07-08_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-07-07_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-07-06_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-07-05_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-07-04_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-07-03_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-07-02_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-07-01_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-07-00_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-06-23_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-06-22_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-06-20_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-06-19_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-06-18_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-06-17_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-06-16_30_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-06-16_26_01.log",
+		"/Users/leon/Documents/五星电器数据库脆弱性评估报告/fsfw01dmz-ASA5540-1_172.26.21.11-2017-06-06-16_21_01.log",
+		"/Users/leon/Desktop/证婚词.txt",
+		"/Users/leon/Desktop/告白.txt",
+		"/Users/leon/Desktop/告白",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/conn.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/connlog.txt",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/showconn.py",
+		"/Users/leon/Desktop/2017-6-6_10",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/Tensorflow/request.txt",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/Tensorflow/online.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/Tensorflow/percent.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/Tensorflow/test.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/Tensorflow/square.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/Works/Tensorflow/add.py",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/工作/信息安全/风险评估/172.16.1.107/squid/access.log",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/工作/信息安全/风险评估/172.16.1.107/squid/access.log.9",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/工作/信息安全/风险评估/172.16.1.107/squid/access.log.3",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/工作/信息安全/风险评估/172.16.1.107/squid/access.log.2",
+		"/Users/leon/Library/Mobile Documents/com~apple~CloudDocs/工作/信息安全/风险评估/172.16.1.107/squid/access.log.1"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"encode",
+			"td",
+			"kibanaLogo",
+			"\"",
+			"td",
+			"130",
+			"clicks",
+			"\"",
+			"gbk",
+			"rtx",
+			"oa",
+			"rtx",
+			"':",
+			"^'",
+			"\\.",
+			"$",
+			"^",
+			"\t",
+			"192\\.168\\.1\\.",
+			"172\\\\.26\\\\.1\\\\.",
+			"172\\\\.26\\\\.1\\\\.0",
+			"\\\\.\\*",
+			"江阳",
+			"\\\\.\\\\.",
+			"\\\\\\\\.",
+			"10\\.193\\.53",
+			"\\\\.",
+			"\".*\\\\.",
+			"\".*\\\\.*",
+			"\\.",
+			"\\^",
+			"'\\:",
+			"^'",
+			"'.*'",
+			"10\\.193\\.40",
+			"10.193.40",
+			"193.40",
+			"192.168.1.2",
+			"'$",
+			" '",
+			"\"",
+			"$",
+			"\\:$",
+			":$",
+			"^",
+			"\".*\"",
+			":.*:",
+			"172.20.96.96",
+			"\t",
+			"inside.*outside",
+			":\\d{5,}",
+			", idle.*",
+			" it",
+			" ",
+			"username ",
+			" pass.*",
+			".*f\\d{6}.*",
+			"f\\d{6}",
+			"line",
+			", idle.*",
+			"\\[.*\\]",
+			":\\d{5}",
+			", idle.*",
+			"\\[.*\\]",
+			", idle.*",
+			":\\d{5}",
+			", idle.*",
+			"\\[.*\\]",
+			", idle.*",
+			":\\d{5}",
+			", idle.*",
+			"\\[.*\\]",
+			":\\d{5}",
+			", idle.*",
+			"\\[.*\\]",
+			":\\d{5}",
+			", idle.*",
+			"\\[.*\\]",
+			":\\d{5}",
+			", idle.*",
+			":\\d{5}",
+			"\\[.*\\]",
+			", idle.*",
+			":\\d{5}",
+			", idle.*",
+			", idel.*",
+			"\\[.*\\]",
+			":\\d{5}",
+			", idle.*",
+			":\\d{5}",
+			", idle.*",
+			"\\[.*\\]",
+			":[ |$]",
+			"\\[.*\\]",
+			", idle.*",
+			":\\d{5}",
+			", idle.*",
+			"\\[.*\\]",
+			"\\d{5}",
+			", idle.*",
+			"\\[.*\\]",
+			":\\d{5}",
+			", idle.*",
+			"\\[.*]",
+			", idle.*",
+			":\\d{5}",
+			"\\d{5}",
+			"^\\n",
+			"\\*",
+			"^\\n",
+			".*more.*",
+			"^\\n",
+			"fsfw.*",
+			".*used",
+			", idle.*",
+			"^  ",
+			"^\\d\\d",
+			"^\\d",
+			"(^.*\\n)(?=\\1)",
+			"(.*)(?=.*\\n\\1)",
+			":\\d{5}",
+			", idle.*",
+			"[s]",
+			"\\d\\.\\d",
+			",",
+			".* ",
+			"(-10, 10)",
+			"1)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"decode",
+			"th",
+			"'",
+			"\\\"",
+			"'",
+			"th",
+			"sysno",
+			"'",
+			"CP850",
+			"\\$':",
+			"$':",
+			"'^",
+			"\\\\.",
+			"\"",
+			"'",
+			"^'",
+			"'",
+			"': \"",
+			"\\\\..\\*",
+			"\\\\.",
+			".",
+			"\\\\.",
+			"\\.",
+			"\\\\\\^",
+			"\\$':",
+			"'\\^",
+			"'\\^.*\\$'",
+			"\"",
+			" \"",
+			"\"",
+			"'",
+			" ",
+			"",
+			"[i]",
+			"0.0",
+			", ",
+			".0,",
+			"",
+			"(-2, 2)",
+			"13"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 137.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-fetch":
+	{
+		"height": 118.0
+	},
+	"output.git-pull":
+	{
+		"height": 118.0
+	},
+	"output.git-push":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Nueron.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
